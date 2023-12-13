@@ -81,8 +81,7 @@ list('_' * 5),
 list('_' * 5),
 list('_' * 5),
 ]
-word = choice(words).upper()
-print(word)
+word = choice(words).upper()
 user = None
 while True:
     while True:
